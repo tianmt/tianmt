@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there，I'm [Tang Mao](https://tangmao.me)  👋
+
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+- 🌏 I'm Chinese.
+- 🧑🏻‍💻 I'm a Programmer.
+- 🤔 Goal: To be better.
+- ⚡ Skills: Go, C, Python, ...
+- 😄 Fun fact: To travel on my motorcycle.
+- 📫 How to reach me: The best way to reach me is to send me an [email](tianmtio@gmail.com).
+
+**That's all...**
+
 
 <!--
 **tianmt/tianmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
