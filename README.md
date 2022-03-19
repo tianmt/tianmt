@@ -7,7 +7,7 @@
 - 🤔 Goal: To be better.
 - ⚡ Skills: Go, C, Python, ...
 - 😄 Fun fact: To travel on my motorcycle.
-- 📫 How to reach me: The best way to reach me is to send me an [email](tianmtio@gmail.com).
+- 📫 How to reach me: The best way to reach me is to send me an <[email](tianmtio@gmail.com)>.
 
 **That's all...**  
 
